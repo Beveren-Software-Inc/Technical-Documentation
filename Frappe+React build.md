@@ -164,3 +164,14 @@ nginx
 -   ✅ **Clean Dev Workflow:** Vite’s fast dev server for frontend
     
 -   ✅ **Standardized:** Follows official Frappe app patterns
+-   
+
+## Errors during Build on Frappe Cloud
+<img width="2254" height="1530" alt="image (10)" src="https://github.com/user-attachments/assets/3ba05c55-d25e-42c1-85fc-aac51e286e9a" />
+
+The solution is to simply change the node version in the dependencies to match the required node version.
+<img width="1125" height="408" alt="Screenshot 2025-07-30 at 14 49 11" src="https://github.com/user-attachments/assets/aba745d5-b097-4c8e-beb7-9fa3294f7d97" />
+
+Your errors might also be diferent from this one, juts be keen and rechcek slowly.
+
+
